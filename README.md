@@ -1,2 +1,2 @@
-# practiva2-Java
+# practica2-Java
 los ejercicios realizados en clases
